@@ -143,7 +143,14 @@
 	<p class="mb-8 mt-2 text-center text-xl">
 		Submission form doesn't exist right now :(
 	</p>
-
+	<h2 class="text-center text-4xl font-bold text-white">
+		Join
+		<a
+			href="https://hackclub.slack.com/archives/C096K1ZEXDL"
+			class="underline">#hacksaber</a>
+		>
+		now!
+	</p>
 	<hr class="mx-auto mt-12 w-[80vw] pb-8 pt-4" />
 
 	<h2 class="mt-4 text-center text-4xl font-bold text-white">Join now! #hacksaber</h2>
