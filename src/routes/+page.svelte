@@ -122,8 +122,10 @@
 
 	<hr class="mx-auto mb-2 w-[20vw] pb-2 pt-4" />
 
-	<h2 class="text-center text-4xl font-bold text-white">How do I sign up?</h2>
-	<p class="mb-8 mt-2 text-center text-xl">Just join #hacksaber and make a map!</p>
+	<h2 class="text-center text-4xl font-bold text-white">Is there a Slack channel?</h2>
+	<p class="mb-8 mt-2 text-center text-xl">
+		Yes! Join <a href="https://hackclub.slack.com/archives/C096K1ZEXDL" class='underline'>#hacksaber</a>
+	</p>
 
 	<hr class="mx-auto mb-2 w-[20vw] pb-2 pt-4" />
 
